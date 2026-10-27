@@ -52,7 +52,32 @@ Projet_SQL_Chinook/
 ## Limites
 
 Chinook est une base de démonstration. Le projet mesure le chiffre d’affaires (ventes facturées), **pas les bénéfices**, puisqu’il ne dispose pas des coûts. Le nombre de factures n’est pas à lui seul une mesure de fidélité.
+## Tableau de bord Power BI
 
+Le projet a été enrichi par la création d'un tableau de bord interactif permettant d'analyser les ventes de la base Chinook.
+
+### Fonctionnalités réalisées
+
+- Analyse du chiffre d'affaires par pays et par genre musical.
+- Visualisation de l'évolution mensuelle des ventes.
+- Création d'indicateurs KPI, notamment le chiffre d'affaires total et la contribution des États-Unis.
+- Filtrage dynamique des résultats par année.
+- Modélisation des relations entre les tables Invoice, InvoiceLine, Track et Genre.
+- Création de mesures DAX pour calculer les indicateurs.
+
+### Principaux résultats
+
+- **Chiffre d'affaires total :** 2 328,60.
+- **Premier marché :** États-Unis, avec environ 22,46 % du chiffre d'affaires.
+- **Genre musical dominant :** Rock.
+
+### Outils utilisés
+
+SQL, SQLite, Python, Pandas, Matplotlib, Power Query, DAX et Power BI.
+
+### Fichier Power BI
+
+Le fichier `Chinook.pbix` contient le tableau de bord interactif et peut être ouvert avec Power BI Desktop.
 ## Source des données
 
 [Chinook Database — dépôt de référence](https://github.com/lerocha/chinook-database)
