@@ -78,6 +78,9 @@ SQL, SQLite, Python, Pandas, Matplotlib, Power Query, DAX et Power BI.
 ### Fichier Power BI
 
 Le fichier `Chinook.pbix` contient le tableau de bord interactif et peut être ouvert avec Power BI Desktop.
+## Aperçu du tableau de bord Power BI
+
+![Tableau de bord Chinook](dashboard_chinook.png)
 ## Source des données
 
 [Chinook Database — dépôt de référence](https://github.com/lerocha/chinook-database)
