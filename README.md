@@ -86,7 +86,7 @@ Les montants sont exprimés dans l'unité monétaire de la base, sans présumer 
 
 ### Excel
 
-![Dashboard Excel](dashboard_excel.png)
+![Dashboard Excel](Chinook-Excel.png)
 
 ## Reproduire le projet
 
